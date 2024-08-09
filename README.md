@@ -1,3 +1,5 @@
+aqc111.ko - Aquantia USB 2.5/5GbE Controllers
+
 atlantic.ko - Marvell/Aquantia Corporation Network Driver
 
 r8125.ko - Realtek RTL8125 2.5Gigabit Ethernet driver
