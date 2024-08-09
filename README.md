@@ -6,4 +6,10 @@ r8125.ko - Realtek RTL8125 2.5Gigabit Ethernet driver
 
 r8152.ko - Realtek RTL8152/RTL8153 USB Ethernet Adapters
 
+igc - Intel 2.5G Ethernet Linux Driver
+
+ixgbe - Intel 10GbE PCI Express Linux Network Driver
+
+ixgb - Intel PRO/10GbE Network Driver
+
 Just add/owerwrite modules into /lib/modules/ and reboot your Synology.... driver should be loaded automatically.
