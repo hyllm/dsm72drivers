@@ -12,4 +12,4 @@ ixgbe.ko - Intel 10GbE PCI Express Linux Network Driver
 
 ixgb.ko - Intel PRO/10GbE Network Driver
 
-Just add/owerwrite modules into /lib/modules/ and reboot your Synology.... driver should be loaded automatically.
+Just add/overwrite modules into /lib/modules/ and reboot your Synology.... driver should be loaded automatically.
